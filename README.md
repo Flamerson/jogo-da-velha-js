@@ -11,4 +11,4 @@ Baixar os arquivos e abrir o index.html no navegador e jogar com um amigo.
 
 ##Jogar o game
 
-https://flamerson.github.io/jogo-da-velha-js/
+<a href="https://flamerson.github.io/jogo-da-velha-js/" target="_blank" >Acessar o Jogo </a>
